@@ -46,6 +46,7 @@ public class CreateFilesBasedOnState
             while(!(idString.equals(QUIT)))
             {
                 id = Integer.parseInt(idString);
+
                 System.out.print("Enter name for customer >> ");
                 name = input.nextLine();
                 StringBuilder sb = new StringBuilder(name);
@@ -56,11 +57,12 @@ public class CreateFilesBasedOnState
                 System.out.print("Enter balance >> ");
                 balance = input.nextDouble();
                 input.nextLine();
+
                 DecimalFormat df = new DecimalFormat(BALANCE_FORMAT);
-                s = idString + delimiter + name + delimiter + state + delimiter +
-                        df.format(balance) + System.getProperty("line.separator");
+                s = idString + delimiter + name + delimiter + state + delimiter + df.format(balance) + System.getProperty("line.separator");
                 byte data[] = s.getBytes();
                 ByteBuffer buffer = ByteBuffer.wrap(data);
+
                 if(state.equals(HOME_STATE))
                 {
                     fcIn.position(id * RECSIZE);
