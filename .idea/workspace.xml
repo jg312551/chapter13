@@ -12,41 +12,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CreateFilesBasedOnState.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/youDoIt/CreateFilesBasedOnState.java">
+      <file leaf-file-name="MediaFile.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mediaFile/MediaFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-1252">
+              <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReadStateFile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/youDoIt/ReadStateFile.java">
+      <file leaf-file-name="mediaLib.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mediaFile/mediaLib.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OutOfStateCusts" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/youDoIt/OutOfStateCusts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1173">
-              <caret line="69" column="24" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InStateCusts.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/youDoIt/InStateCusts.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="850" column="25" selection-start-line="850" selection-start-column="25" selection-end-line="850" selection-end-column="25" />
+            <state relative-caret-position="475">
+              <caret line="109" selection-start-line="109" selection-end-line="109" />
             </state>
           </provider>
         </entry>
@@ -71,16 +50,23 @@
         <option value="$PROJECT_DIR$/src/youDoIt/InStateCusts.txt" />
         <option value="$PROJECT_DIR$/src/youDoIt/OutOfStateCusts" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/youDoIt/CreateFilesBasedOnState.java" />
         <option value="$PROJECT_DIR$/src/youDoIt/ReadStateFile.java" />
+        <option value="$PROJECT_DIR$/../lesson 1/src/mediaLib.java" />
+        <option value="$PROJECT_DIR$/src/youDoIt/CreateFilesBasedOnState.java" />
+        <option value="$PROJECT_DIR$/src/mediaLib.java" />
+        <option value="$PROJECT_DIR$/src/mediaFile/Books.java" />
+        <option value="$PROJECT_DIR$/src/mediaFile/Song.java" />
+        <option value="$PROJECT_DIR$/src/mediaFile/MediaFile.java" />
+        <option value="$PROJECT_DIR$/src/mediaFile/Movie.java" />
+        <option value="$PROJECT_DIR$/src/mediaFile/mediaLib.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="61" />
-    <option name="y" value="-11" />
+    <option name="x" value="5" />
+    <option name="y" value="-15" />
     <option name="width" value="1088" />
-    <option name="height" value="695" />
+    <option name="height" value="696" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -88,7 +74,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,20 +90,21 @@
               <item name="chapter13" type="b2602c69:ProjectViewProjectNode" />
               <item name="chapter13" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
+              <item name="mediaFile" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="chapter13" type="b2602c69:ProjectViewProjectNode" />
               <item name="chapter13" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="youDoIt" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -136,7 +122,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReadStateFile">
+  <component name="RunManager" selected="Application.mediaLib">
     <configuration name="CreateFilesBasedOnState" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="youDoIt.CreateFilesBasedOnState" />
       <module name="chapter13" />
@@ -161,6 +147,17 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="mediaLib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mediaFile.mediaLib" />
+      <module name="chapter13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mediaFile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="writeEmployeeFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practice.writeEmployeeFile" />
@@ -215,9 +212,11 @@
       <item itemvalue="Application.writeEmployeeFile" />
       <item itemvalue="Application.CreateFilesBasedOnState" />
       <item itemvalue="Application.ReadStateFile" />
+      <item itemvalue="Application.mediaLib" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mediaLib" />
         <item itemvalue="Application.ReadStateFile" />
         <item itemvalue="Application.CreateFilesBasedOnState" />
         <item itemvalue="Application.writeEmployeeFile" />
@@ -243,6 +242,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3298292" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
@@ -266,13 +266,91 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.3298292" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3298292" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/youDoIt/CreateFilesBasedOnState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="89" column="1" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="1" />
+          <caret line="90" column="5" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/youDoIt/CreateFilesBasedOnState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/youDoIt/ReadStateFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/youDoIt/OutOfStateCusts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="24" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/youDoIt/InStateCusts.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14450">
+          <caret line="850" column="25" selection-start-line="850" selection-start-column="25" selection-end-line="850" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/youDoIt/CreateFilesBasedOnState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/youDoIt/ReadStateFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/youDoIt/OutOfStateCusts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="24" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/youDoIt/InStateCusts.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14450">
+          <caret line="850" column="25" selection-start-line="850" selection-start-column="25" selection-end-line="850" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/youDoIt/CreateFilesBasedOnState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -393,16 +471,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/src/youDoIt/InStateCusts.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="1790">
+          <caret line="818" column="25" lean-forward="true" selection-start-line="818" selection-start-column="25" selection-end-line="818" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/youDoIt/OutOfStateCusts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
+        <state relative-caret-position="702">
           <caret line="69" column="24" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
         </state>
       </provider>
@@ -410,34 +488,145 @@
     <entry file="file://$PROJECT_DIR$/src/youDoIt/ReadStateFile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lesson 1/src/mediaLib.java" />
+    <entry file="file://$PROJECT_DIR$/src/practice/mediaLib.java" />
+    <entry file="file://$PROJECT_DIR$/src/youDoIt/CreateFilesBasedOnState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="82" column="9" lean-forward="true" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Books.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Song.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+          <folding>
+            <element signature="e#883#884#0" expanded="true" />
+            <element signature="e#914#915#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mediaLib.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mediaFile/Song.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practice/ReadEmployeeFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/youDoIt/InStateCusts.txt">
+    <entry file="file://$PROJECT_DIR$/src/mediaFile/Books.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="850" column="25" selection-start-line="850" selection-start-column="25" selection-end-line="850" selection-end-column="25" />
+        <state relative-caret-position="204">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding>
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/youDoIt/CreateFilesBasedOnState.java">
+    <entry file="file://$PROJECT_DIR$/src/mediaFile/Movie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#776#777#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mymedia.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mediaFile/MediaFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1252">
+          <caret line="1" column="25" lean-forward="true" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mediaFile/mediaLib.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
         </state>
       </provider>
     </entry>
