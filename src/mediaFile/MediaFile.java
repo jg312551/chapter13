@@ -51,7 +51,7 @@ import java.io.BufferedWriter;
         }
 
         /**
-         * Oens a file to be used for output (if not already open),
+         * Opens a file to be used for output (if not already open),
          * writes a string to the file and wrties a newline.
          *
          * @param s The string text to be written. Follwing the string, a newline is added to the file.
